@@ -7,7 +7,7 @@ class Autonomia extends Component{
     render() {
         return (
         <ul>
-            <li>Autonomía: {this.props.km.number} km </li>            
+            <li>Autonomía: {this.props.km} km </li>            
         </ul>
         )
     }   
